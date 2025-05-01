@@ -1,2 +1,3 @@
 34,ist,insan
 61,bn,hamsiler
+58,sn,kangallar
