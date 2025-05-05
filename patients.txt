@@ -1,7 +1,7 @@
-1,eslem,deli
-2,ilknur,crazy
-3,abdulmecidzzzzzz,kaçık
-4,busseven,toxic
-5,y******,simarik
-6,f******,embesil
-222,rrr,yyy
+1,Alex,Flu  
+2,Sophie,Chickenpox  
+3,Marcus,Asthma  
+4,Nina,Diabetes  
+5,Liam,Anemia  
+6,Emily,Allergy  
+7,Tom,Arthritis  

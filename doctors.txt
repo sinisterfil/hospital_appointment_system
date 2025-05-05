@@ -1,3 +1,5 @@
-34,ist,insan
-61,bn,hamsiler
-58,sn,kangallar
+1,Dr. Stevens,Cardiology  
+2,Dr. Ramirez,Neurology  
+3,Dr. Chen,Pediatrics  
+4,Dr. Ivanova,Dermatology  
+5,Dr. Okafor,Orthopedics  
